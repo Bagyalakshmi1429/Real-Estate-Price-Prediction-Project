@@ -18,5 +18,9 @@ Technology and tools wise this project covers,
 6) Python flask for http server
 7) HTML/CSS/Javascript for UI
 
-
+**Predict House Price in POSTMAN**
 ![Predict House Price in POSTMAN](https://github.com/Bagyalakshmi1429/Real-Estate-Price-Prediction-Project/assets/142560918/642be782-a7e2-4f10-beec-20c98a6d9573)
+
+**WORK FLOW OF REAL ESTATE PRICE PREDICTION**
+![WORK FLOW](https://github.com/Bagyalakshmi1429/Real-Estate-Price-Prediction-Project/assets/142560918/a2ce400c-fb4e-4a8a-88f5-35b2e8338335)
+
