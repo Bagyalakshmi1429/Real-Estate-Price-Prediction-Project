@@ -17,3 +17,6 @@ Technology and tools wise this project covers,
 5) Jupyter notebook, visual studio code and pycharm as IDE
 6) Python flask for http server
 7) HTML/CSS/Javascript for UI
+
+
+![Predict House Price in POSTMAN](https://github.com/Bagyalakshmi1429/Real-Estate-Price-Prediction-Project/assets/142560918/642be782-a7e2-4f10-beec-20c98a6d9573)
